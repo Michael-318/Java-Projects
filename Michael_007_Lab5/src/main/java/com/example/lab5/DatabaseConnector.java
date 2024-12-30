@@ -43,7 +43,7 @@ public class DatabaseConnector {
 
             System.out.println("hostString : " + hostString);
 
-            String username = "COMP228_F24_jig_49";
+            String username = "Username";
             String password = "password";
 
             //register the driver
